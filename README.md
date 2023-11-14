@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragshukla1999&label=Profile%20views&color=0e75b6&style=flat" alt="anuragshukla1999" /> </p>
 
-- 🔭 I’m currently working on **LMS, Ecommerce**
+- 🔭 I’m currently working on **Flipcart, Ecommerce**
 
 - 🌱 I’m currently learning **React js**
 
